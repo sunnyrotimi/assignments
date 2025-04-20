@@ -1,0 +1,60 @@
+.Gabrielle {
+  border-radius: 10px 0px 0px 10px;
+  margin: 0px 0px 0px 100px;
+}
+div p {
+  color: #999b9e;
+  width: 220px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+  color: #1d2025;
+  font-family: "Times New Roman", Times, serif;
+  width: 150px;
+  margin: 0px 70px 0px 0px; display: block;
+}
+h1 {
+  color: hsl(157, 26%, 37%);
+  margin: 15px 0px; display: inline;
+  }
+h4 {
+  background-color: #477865;
+  color: #ccf1e3;
+  padding: 10px 60px;
+  text-align: center;
+  border-radius: 8px;
+  border: 10px;
+  margin: 15px 0px; display: inline;
+}
+h4:hover {
+    background-color: #8fab46;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transform: scale(1.01);
+  }
+.card2 {
+  background-color: #ffffff;
+  padding: 30px 20px;
+  border-bottom: 0px; display: inline;
+  margin: 0px 750px 0px 0px;
+  border-radius: 0px 10px 10px 0px; place-items: center;
+}
+body {
+  background-color: #f3eae3; place-items: center; margin: 100px auto; /* Add auto to margin */
+}
+.container {
+  display: flex;
+  gap: 0px;
+}
+
+.container {
+  flex-basis: 50%;
+}
+
+.card2 {
+  flex-basis: 50%;
+}
+.strike {
+  font-size: small; color: #999b9e;
+}
+  
+    
