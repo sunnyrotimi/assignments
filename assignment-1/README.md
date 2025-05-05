@@ -1,5 +1,3 @@
-Portfolio Webpage README
-
 Project Overview
 
 This project is a simple HTML webpage designed to showcase my personal portfolio, highlighting my aspirations, interests, and favorite resources. The webpage includes:
