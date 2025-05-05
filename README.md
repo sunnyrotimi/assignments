@@ -1,1 +1,0 @@
-#assignments repo of plural code academy for full stack development course
