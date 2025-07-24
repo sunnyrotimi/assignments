@@ -32,5 +32,6 @@ The project consists of a single javascript file (shopping_cart.js) that defines
 - Integrate with a database to persist cart data.
 
 **Contributing**
+
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
